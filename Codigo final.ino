@@ -1,3 +1,10 @@
+/*
+Trabalho de GB de circuitos microprocessados
+criar um codigo em arduino para um carrinho ir de um ponto A para B utilizando os caminhos existentes
+Codigo que busca um caminho para o carrinho seguir, caso haja um obstaculo, ele bloqueara o caminho, voltar um nó e criara outro caminho para prosseguir
+*/
+
+
 #define Liga 7
 #define oVelocidade1 6
 #define oVelocidade2 5
